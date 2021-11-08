@@ -1,10 +1,10 @@
 // firebase config
 export const firebaseConfig = {
-  apiKey: "AIzaSyDQy7MvPIpNb2unDvnRdG-RsFdcz8SS2zU",
-  authDomain: "shop-8bf8a.firebaseapp.com",
-  projectId: "shop-8bf8a",
-  storageBucket: "shop-8bf8a.appspot.com",
-  messagingSenderId: "264954917507",
-  appId: "1:264954917507:web:c364be3654e5edafd921b6",
-  measurementId: "G-3D6Y470N08",
+  apiKey: "AIzaSyBEDbtq5hMPH1iEPGmt3xObXeGJP4tHtMI",
+  authDomain: "shop-8ddaf.firebaseapp.com",
+  projectId: "shop-8ddaf",
+  storageBucket: "shop-8ddaf.appspot.com",
+  messagingSenderId: "250294906181",
+  appId: "1:250294906181:web:36ae7607ad4cc6c56b222c",
+  measurementId: "G-4QC7V4KE8N"
 };
